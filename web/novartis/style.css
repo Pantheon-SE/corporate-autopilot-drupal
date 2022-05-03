@@ -1,4 +1,6 @@
-.paragraph--type--slideshow-carousel .carousel_inner--wrapper {
+body[class*="pattern-blue-"]
+  .paragraph--type--slideshow-carousel
+  .carousel_inner--wrapper {
   background-color: darkred !important;
 }
 
