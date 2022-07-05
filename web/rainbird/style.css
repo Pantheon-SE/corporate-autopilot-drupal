@@ -1,11 +1,8 @@
-body[class*="pattern-blue-"]
-  .paragraph--type--slideshow-carousel
-  .carousel_inner--wrapper {
-  background-color: darkred !important;
+.main-header,
+.main-header > .navbar {
+  background-color: #4b5cae !important;
 }
 
-a.link_button.custom_link {
-  background-color: #0460a9;
-  color: white !important;
-  border: 0;
+.field--name-field-featured-pages .greenBar {
+  background-color: #4b5cae !important;
 }
