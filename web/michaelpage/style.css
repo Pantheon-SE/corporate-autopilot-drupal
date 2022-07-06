@@ -1,0 +1,16 @@
+#navigation-wrapper {
+  background-color: crimson;
+}
+
+.form-submit,
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"],
+form .form-submit,
+.ui-dialog-buttonpane .ui-dialog-buttonset button,
+.apply-job-page .false-submit,
+.page-candidate-relevancy-review .job-match-profile-form .false-submit,
+.page-mypage-job-match-detail .job-match-profile-form .false-submit {
+  background-color: crimson;
+}
