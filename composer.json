@@ -88,6 +88,8 @@
     "platform": {
       "php": "7.4"
     },
-    "allow-plugins": true
+    "allow-plugins": {
+      "*/*": true
+    }
   }
 }
